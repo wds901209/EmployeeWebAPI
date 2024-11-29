@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeAdminPortal", "EmployeeAdminPortal\EmployeeAdminPortal.csproj", "{37F293FD-549D-4778-B053-4715BF9E6100}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "README", "README", "{CEBF2527-6A7E-41D7-A2B7-21E78DABABF2}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gitignore", "Gitignore", "{2AA66871-2EA8-45C5-A5AE-5593D492C840}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37F293FD-549D-4778-B053-4715BF9E6100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F293FD-549D-4778-B053-4715BF9E6100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F293FD-549D-4778-B053-4715BF9E6100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F293FD-549D-4778-B053-4715BF9E6100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADD383BB-C9BE-4163-9E8C-BA361E7236C8}
+	EndGlobalSection
+EndGlobal
